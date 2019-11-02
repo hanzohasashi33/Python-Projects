@@ -22,3 +22,7 @@ A good project for beginners, this project will help establish a solid foundatio
 
 # Password Generator
 Write a programme, which generates a random password for the user. Ask the user how long they want their password to be, and how many letters and numbers they want in their password. Have a mix of upper and lowercase letters, as well as numbers and symbols. The password should be a minimum of 6 characters long.
+
+
+# youtube.py
+Takes a song name as input and fetches the YouTube URL of the best matching song and plays it.
