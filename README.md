@@ -26,3 +26,16 @@ Write a programme, which generates a random password for the user. Ask the user 
 
 # youtube.py
 Takes a song name as input and fetches the YouTube URL of the best matching song and plays it.
+
+
+
+## guess_the_number.py
+A simple number guessing game using random module of python
+
+## WEB SCRAPING
+
+contains my web scraping programs which uses bs4 and urllib to scrap some pages
+Basically These are my tutorial files for learning python web scraping
+PREREQUISITES TO RUN :
+    Python 3.x
+    bs4
