@@ -43,9 +43,9 @@ PREREQUISITES TO RUN :
 
 
 
-# BING WALLPAPER CHANGER :
+# Bing wallpaper changer :
 Uses bs4 to scrape bing wallpaper of the day and changes the wallpaper.
 
 
-# BING WALLPAPER DOWNLOADER 
+# Bing wallpaper downloader : 
 Uses bs4 to download bing wallpaper of the day
